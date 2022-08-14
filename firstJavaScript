@@ -1,0 +1,11 @@
+console.log("Hello from JavaScript");
+var number = 5; // in line comment
+
+/* This is a multi-line comment
+sadasdads
+asdasfdsfgdfg
+dfhgfh
+*/
+
+var number = 10;
+var myName = "Beau";
